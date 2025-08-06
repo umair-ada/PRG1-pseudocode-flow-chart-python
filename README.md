@@ -1,6 +1,6 @@
 # PRG1: From Pseudocode & Flowcharts to Python
 
-This repository contains Python programs that students will explore using the **PRIMM methodology** (Predict, Run, Investigate, Modify, Make). Each program corresponds to a flowchart and demonstrates key programming concepts.
+This repository contains Python programs that you will explore using the **PRIMM methodology** (Predict, Run, Investigate, Modify, Make). Each program corresponds to a flowchart and demonstrates key programming concepts.
 
 ## 📋 Programs Overview
 
