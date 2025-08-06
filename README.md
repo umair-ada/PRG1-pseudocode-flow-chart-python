@@ -80,17 +80,53 @@ Make these changes:
 ### **M - MAKE** 🛠️
 Create your own programs:
 
-1. **YouTube Watch Time Calculator** (Sequence)
+**Sequence Programs:**
+1. **YouTube Watch Time Calculator**
    - Input: videos watched, average length
    - Output: total time, equivalent in days
 
-2. **Grade Calculator** (Selection)
+2. **Commute Cost Calculator**
+   - Input: distance, fuel price, car efficiency
+   - Output: daily/weekly/monthly costs
+
+3. **Pizza Party Planner**
+   - Input: guests, slices per person, slices per pizza
+   - Output: pizzas needed, total cost
+
+**Selection Programs:**
+4. **Grade Calculator**
    - Input: test scores
    - Output: letter grade using if-elif
 
-3. **Shopping List Analyser** (Iteration)
+5. **Cinema Ticket Pricer**
+   - Input: age, day of week, time
+   - Output: ticket price with discounts
+
+6. **Weather Outfit Suggester**
+   - Input: temperature, weather condition
+   - Output: clothing recommendations
+
+**Iteration Programs:**
+7. **Shopping List Analyser**
    - Input: items and prices
    - Output: total cost, most expensive item
+
+8. **Fitness Tracker**
+   - Input: daily steps for a week
+   - Output: total steps, average, best day
+
+9. **Book Reading Progress**
+   - Input: pages read each day
+   - Output: total pages, reading streak
+
+**Mixed Concept Programs:**
+10. **Student Timetable Analyser**
+    - Input: subjects, hours per week
+    - Output: workload assessment, study recommendations
+
+11. **Holiday Budget Calculator**
+    - Input: destination, days, daily budget
+    - Output: total cost, spending categories
 
 ## 🚀 Getting Started
 
