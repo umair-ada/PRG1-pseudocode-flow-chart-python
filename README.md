@@ -59,6 +59,9 @@ Answer these questions after running:
 - How does the counter system work?
 - What determines the "Overall mood"?
 
+##
+## 📢 Friendly message. 📢 If you have limited programming experience, some of the following tasks might seem hard at this moment in time. Don't worry! Pick and choose!
+
 ### **M - MODIFY** ✏️
 Make these changes:
 
@@ -91,16 +94,18 @@ Create your own programs:
 
 ## 🚀 Getting Started
 
-1. Clone this repository
+1. Fork this repository
 2. Start with the flowcharts to understand the logic
 3. Follow the PRIMM activities in order
-4. Use Python 3.x to run the programs
+4. Use Python 3 to run the programs
 
 ## 💡 Learning Objectives
 
 By completing these activities, you will:
 - Understand sequence, selection, and iteration
 - Practice reading and tracing code
+
+Some of you will be able to start:
 - Learn to modify existing programs
 - Build confidence in writing new programs
 - Connect visual flowcharts to Python syntax
