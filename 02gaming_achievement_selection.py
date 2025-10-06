@@ -2,11 +2,22 @@ print("=== Gaming Achievement Checker ===")
     
 # Input
 player_score = int(input("Enter your player score: "))
+if not player_score > 0:
+    print("Enter a positive number!")
+    quit()
 time_played_hours = int(input("Enter hours played: "))
+if not time_played_hours > 0:
+    print("Enter a positive number!")
+    quit()
 enemies_defeated = int(input("Enter enemies defeated: "))
+if not enemies_defeated> 0:
+    print("Enter a positive number!")
+    quit()
 
 # Selection logic
-if player_score >= 10000 and time_played_hours >= 50:
+if player_score >= 15000 and time_played_hours >= 100:
+    achievement = "Legend"
+elif player_score >= 10000 and time_played_hours >= 50:
     achievement = "Master Player"
 elif enemies_defeated >= 1000:
     achievement = "Combat Expert"
